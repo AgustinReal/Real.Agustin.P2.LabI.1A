@@ -175,7 +175,7 @@ int controller_FiltroComedia(LinkedList* pArrayListPeliculas)
     {
         auxListaFiltro=ll_filter(pArrayListPeliculas, Pelicula_FiltrarComedia);
         controller_ListPeliculas(auxListaFiltro);
-        controller_saveAsText("peliculaGeneroDrama.csv", auxListaFiltro);
+        controller_saveAsText("peliculaGeneroComedia.csv", auxListaFiltro);
         todoOk=1;
     }
 
