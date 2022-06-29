@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1656512393 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+	"Controller.h"
+	"inputs.h"
+	"menu.h"
+
+1656507741 c:\users\usuario\desktop\programacion 1\parcial2peliculas\linkedlist.h
+
+1656512393 c:\users\usuario\desktop\programacion 1\parcial2peliculas\peliculas.h
+
+1656507741 c:\users\usuario\desktop\programacion 1\parcial2peliculas\parser.h
+
+1656512572 c:\users\usuario\desktop\programacion 1\parcial2peliculas\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+
+1656507741 c:\users\usuario\desktop\programacion 1\parcial2peliculas\inputs.h
+
+1656510294 c:\users\usuario\desktop\programacion 1\parcial2peliculas\menu.h
+
+1656507740 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"inputs.h"
+
+1656507740 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656511235 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"peliculas.h"
+	"inputs.h"
+	"parser.h"
+	"menu.h"
+
+1656510294 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1656507741 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1656510962 source:c:\users\usuario\desktop\programacion 1\parcial2peliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+
